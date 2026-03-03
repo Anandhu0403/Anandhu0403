@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django,Python,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://anandhu0403-portfolio.netlify.app/](https://anandhu0403-portfolio.netlify.app/)
+
 
 - 📫 How to reach me **anandhu0403@gmail.com**
 
