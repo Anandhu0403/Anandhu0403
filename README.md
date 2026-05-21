@@ -81,7 +81,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anandhu0403&show_icons=true&locale=en&layout=compact" 
-    alt="anandhu0403" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu0403&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
   />
 </p>
