@@ -80,7 +80,14 @@
 </p>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu0403&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api?username=anandhu0403&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anandhu0403&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </p>
