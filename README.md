@@ -78,10 +78,9 @@
   </a>
 
 </p>
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu0403&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu0403&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" 
     alt="Top Languages" 
   />
 </p>
